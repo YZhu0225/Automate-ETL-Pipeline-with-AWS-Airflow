@@ -10,10 +10,19 @@ finish ```airflow.env```, ```docker-compose.yml```, ```Dockerfile```
 
 ```docker compose up -d --build```
 
+open Docker Desktop, make sure services are running
+![Alt text](image.png)
+
 write ```dags/reddit_dag.py```
 
 ```pip install configparser
 pip freeze > requirements.txt
 docker compose up -d --build   # rebuild the image
 ```
+
+``` open http://localhost:8080```
+login with user name and password from yml
+
+In DAGs, there should be **etl_reddit_pipeline**, enable it, trigger it, 
+
 
