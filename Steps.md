@@ -11,3 +11,9 @@ finish ```airflow.env```, ```docker-compose.yml```, ```Dockerfile```
 ```docker compose up -d --build```
 
 write ```dags/reddit_dag.py```
+
+```pip install configparser
+pip freeze > requirements.txt
+docker compose up -d --build   # rebuild the image
+```
+

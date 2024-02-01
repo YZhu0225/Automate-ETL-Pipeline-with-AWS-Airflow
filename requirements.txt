@@ -34,6 +34,7 @@ clickclick==20.10.2
 colorama==0.4.6
 colorlog==4.8.0
 comm==0.2.1
+configparser==6.0.0
 ConfigUpdater==3.2
 connexion==2.14.2
 contourpy==1.2.0
