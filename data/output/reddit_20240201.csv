@@ -1,0 +1,32 @@
+id,title,score,num_comments,author,created_utc,url,over_18,edited,spoiler,stickied
+1aggfae,"Got a flight this weekend, which do I read first?",111,76,cheanerman,2024-02-01 17:28:14,https://i.redd.it/9a5y3tgyd0gc1.jpeg,False,False,False,False
+1afxium,Most Hireable ETL Tools,33,45,Aromatic-Series-2277,2024-02-01 00:28:21,https://www.reddit.com/r/dataengineering/comments/1afxium/most_hireable_etl_tools/,False,False,False,False
+1afzpri,Most Portable and Cleanest Way to Integrate BigQuery with Python Dataframe Manipulation,8,13,SpiderMangauntlet,2024-02-01 02:12:12,https://www.reddit.com/r/dataengineering/comments/1afzpri/most_portable_and_cleanest_way_to_integrate/,False,False,False,False
+1ag3wih,Dremio Lakehouse,8,7,luqmancrit69,2024-02-01 05:50:20,https://www.reddit.com/r/dataengineering/comments/1ag3wih/dremio_lakehouse/,False,False,False,False
+1afwt5i,Python-Only Data Pipeline Suggestions,7,8,EarthEmbarrassed4301,2024-01-31 23:56:33,https://www.reddit.com/r/dataengineering/comments/1afwt5i/pythononly_data_pipeline_suggestions/,False,False,False,False
+1ag7kh1,E-commerce Products storing (SQL / no sql ),3,4,Saa3dLfachil,2024-02-01 10:00:55,https://www.reddit.com/r/dataengineering/comments/1ag7kh1/ecommerce_products_storing_sql_no_sql/,False,False,False,False
+1agj7rh,dbt™ data modeling Challenge - NBA Edition,3,1,JParkerRogers,2024-02-01 19:24:36,https://www.reddit.com/r/dataengineering/comments/1agj7rh/dbt_data_modeling_challenge_nba_edition/,False,False,False,False
+1agijyw,Open Source Portable SQL Linter,5,2,Background_Call6280,2024-02-01 18:57:37,https://github.com/quarylabs/sqruff,False,False,False,False
+1agbigy,Alternatives for data warehouses,3,10,Bira-of-louders,2024-02-01 13:54:42,https://www.reddit.com/r/dataengineering/comments/1agbigy/alternatives_for_data_warehouses/,False,False,False,False
+1ag4ehz,"Why Does MPP's not support high QPS, low latency queries?",5,3,Outrageous_Apple_420,2024-02-01 06:19:28,https://www.reddit.com/r/dataengineering/comments/1ag4ehz/why_does_mpps_not_support_high_qps_low_latency/,False,False,False,False
+1agiyq1,DP -203 Exam study materials help..,3,1,bmkmanojkumar,2024-02-01 19:14:05,https://www.reddit.com/r/dataengineering/comments/1agiyq1/dp_203_exam_study_materials_help/,False,False,False,False
+1agkong,Data “contract” actual implementation,3,0,romanzdk,2024-02-01 20:26:00,https://www.reddit.com/r/dataengineering/comments/1agkong/data_contract_actual_implementation/,False,False,False,False
+1agfqy9,Monthly General Discussion - Feb 2024,2,0,AutoModerator,2024-02-01 17:00:30,https://www.reddit.com/r/dataengineering/comments/1agfqy9/monthly_general_discussion_feb_2024/,False,False,False,True
+1ag3rhm,Bold Projects vs MVPs,2,1,ivanovyordan,2024-02-01 05:41:44,https://www.reddit.com/r/dataengineering/comments/1ag3rhm/bold_projects_vs_mvps/,False,False,False,False
+1ag0ir4,Sharing data with non-technical teams for review and approval,2,3,FooFighter_V,2024-02-01 02:50:56,https://www.reddit.com/r/dataengineering/comments/1ag0ir4/sharing_data_with_nontechnical_teams_for_review/,False,False,False,False
+1aglecn,Has anyone here switched to DE from Technical Project Management/Product Management,2,0,egg_boi56,2024-02-01 20:55:52,https://www.reddit.com/r/dataengineering/comments/1aglecn/has_anyone_here_switched_to_de_from_technical/,False,False,False,False
+1agifx8,Database “API”,1,3,romanzdk,2024-02-01 18:52:52,https://www.reddit.com/r/dataengineering/comments/1agifx8/database_api/,False,False,False,False
+1agi84m,How can I help make things better? (Accounting firm data work),1,0,comments_egg,2024-02-01 18:44:02,https://www.reddit.com/r/dataengineering/comments/1agi84m/how_can_i_help_make_things_better_accounting_firm/,False,False,False,False
+1agh025,Five Useful Queries to Get BigQuery Costs,1,0,saipeerdb,2024-02-01 17:52:29,https://www.reddit.com/r/dataengineering/comments/1agh025/five_useful_queries_to_get_bigquery_costs/,False,False,False,False
+1aggfov,Next steps for an individual contributor?,1,0,data-punk,2024-02-01 17:28:40,https://www.reddit.com/r/dataengineering/comments/1aggfov/next_steps_for_an_individual_contributor/,False,False,False,False
+1agce9z,"Open Source and the Data Lakehouse: Apache Arrow, Apache Iceberg, Nessie and Dremio",1,0,AMDataLake,2024-02-01 14:34:32,https://www.dremio.com/blog/open-source-and-the-data-lakehouse-apache-arrow-apache-iceberg-nessie-and-dremio/,False,False,False,False
+1ag9anf,Is there a way to extract data sources from a PBI dashboard in .pbix?,1,0,thiophosgene,2024-02-01 11:56:17,https://www.reddit.com/r/dataengineering/comments/1ag9anf/is_there_a_way_to_extract_data_sources_from_a_pbi/,False,False,False,False
+1ag0wb4,What’s the best way to store amd retrieve data using node js?,1,0,ArmiliteRifle,2024-02-01 03:09:32,https://www.reddit.com/r/dataengineering/comments/1ag0wb4/whats_the_best_way_to_store_amd_retrieve_data/,False,False,False,False
+1agka5d,Should I pursue Data Engineering?,0,5,Capital-Ganache8631,2024-02-01 20:09:20,https://www.reddit.com/r/dataengineering/comments/1agka5d/should_i_pursue_data_engineering/,False,False,False,False
+1agjvds,Improving non technical skills,0,2,mediocrX,2024-02-01 19:52:32,https://www.reddit.com/r/dataengineering/comments/1agjvds/improving_non_technical_skills/,False,False,False,False
+1aghfgn,[NOOB] Are all confluent connectors paid?,0,0,LocksmithConnect6201,2024-02-01 18:10:31,https://www.reddit.com/r/dataengineering/comments/1aghfgn/noob_are_all_confluent_connectors_paid/,False,False,False,False
+1ag9d5p,How Inverted Index Accelerates Text Searches by 40 Times,0,0,ApacheDoris,2024-02-01 12:00:30,https://doris.apache.org/blog/inverted-index-accelerates-text-searches-by-40-time-apache-doris,False,False,False,False
+1ag3efm,Need help figuring out a personal project for portfolio,0,4,SAAD_3XK,2024-02-01 05:20:59,https://www.reddit.com/r/dataengineering/comments/1ag3efm/need_help_figuring_out_a_personal_project_for/,False,False,False,False
+1afxacb,Senior data engineer interview test,0,4,atrifleamused,2024-02-01 00:17:33,https://www.reddit.com/r/dataengineering/comments/1afxacb/senior_data_engineer_interview_test/,False,False,False,False
+1agemag,Trying to find a Job,0,4,LeastTadpole2258,2024-02-01 16:13:14,https://www.reddit.com/r/dataengineering/comments/1agemag/trying_to_find_a_job/,False,False,False,False
+1agdgu5,Data engineer interview,0,0,HavenReign882,2024-02-01 15:23:03,https://www.reddit.com/r/dataengineering/comments/1agdgu5/data_engineer_interview/,False,False,False,False
